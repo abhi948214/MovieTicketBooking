@@ -34,8 +34,6 @@ The application will be launched at [http://localhost:8080](http://localhost:808
 2. Platform member registration and login.
 3. Support movie tickets reservation and cancellation for registered members only. 
 
-### Demo Video
-[![](images/demoThumbnail.png)](https://youtu.be/7e6kLWGN-fA)
 
 ### ToDo
 - [ ] Enable searchbar function
